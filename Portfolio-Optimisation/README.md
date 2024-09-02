@@ -1,5 +1,21 @@
 # Investment Strategy and Portfolio Optimization
-Overview: In this project, we analyzed a set of 5 stocks—AAPL, AMZN, GOOGL, MSFT, and NVDA—using various portfolio optimization techniques. The goal was to identify the best investment strategies based on different risk profiles and scenarios, including:
+
+## Table of Contents
+- [Key Findings](#key-findings)
+  - [Efficient Frontier and Sharpe Ratio Optimization](#1-efficient-frontier-and-sharpe-ratio-optimization---simulated-for-100000-portfolios)
+  - [Minimum Volatility Portfolio](#2-minimum-volatility-portfolio---simulated-for-100000-portfolios)
+  - [Optimal Two-Stock Portfolio](#3-optimal-two-stock-portfolio)
+- [Recommendations](#recommendations)
+  - [For Conservative Investors (Minimize Risk)](#for-conservative-investors-minimize-risk)
+  - [For Risk-Tolerant Investors (Maximize Return/Risk Ratio)](#for-risk-tolerant-investors-maximize-returnrisk-ratio)
+  - [For High Potential, High Risk Investors](#for-high-potential-high-risk-investors)
+- [Overall Investment Strategy](#overall-investment-strategy)
+- [Summary](#summary)
+
+
+This project focuses on portfolio optimization and risk analysis using five prominent stocks: AAPL (Apple Inc.), AMZN (Amazon.com Inc.), GOOGL (Alphabet Inc.), MSFT (Microsoft Corporation), and NVDA (NVIDIA Corporation).
+
+The project leverages various financial models and techniques to optimize portfolios, assess risk, and provide investment recommendations tailored to different risk profiles. It includes detailed analysis and code implementations for:
 
 - Simulated Portfolio Optimization for Efficient Frontier: Exploring the risk-return trade-offs to identify the optimal portfolio.
 - Maximum Sharpe Ratio Portfolio: Maximizing returns per unit of risk.
