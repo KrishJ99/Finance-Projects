@@ -1,9 +1,10 @@
 # Investment Strategy and Portfolio Optimization
 Overview: In this project, we analyzed a set of 5 stocks—AAPL, AMZN, GOOGL, MSFT, and NVDA—using various portfolio optimization techniques. The goal was to identify the best investment strategies based on different risk profiles and scenarios, including:
 
-- Simulated Portfolio Optimization for Efficient Frontier
-- Max Sharpe ratio / Minimum Volatility Portfolio Allocation
-- Optimal Allocation for a Two-Stock Portfolio
+- Simulated Portfolio Optimization for Efficient Frontier: Exploring the risk-return trade-offs to identify the optimal portfolio.
+- Maximum Sharpe Ratio Portfolio: Maximizing returns per unit of risk.
+- Minimum Volatility Portfolio: Minimizing risk while maintaining reasonable returns.
+- Two-Stock Portfolio Optimization: Identifying the best pair of stocks for investment based on historical performance.
   
 ## **Key Findings:**
 
